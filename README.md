@@ -4,10 +4,6 @@
 - 🌱 Estudando desenvolvimento front-end (Javascript, Typescript, React, Node, HTML e CSS)
 - 😄 Pronouns: ele/dele
   
-  <div align="center">
-  <a href="https://github.com/JoseMarceloSuzano">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoseMarceloSuzano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseMarceloSuzano&layout=compact&langs_count-16&theme-dracula"/>
     
 </div>
   
