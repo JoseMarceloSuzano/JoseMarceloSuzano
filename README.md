@@ -1,6 +1,6 @@
 ### Olá, sou o José Marcelo! 👋
 
-- 🔭 Hoje trabalho com Helpdesk.
+- 🔭 Hoje trabalho como desenvolvedor front-end trabalhando com as tecnologias ServiceNow, SoftwareAG, Java e Javascript.
 - 🌱 Estudando desenvolvimento front-end (Javascript, Typescript, React, Node, HTML e CSS)
 - 😄 Pronouns: ele/dele
   
